@@ -305,4 +305,3 @@ while wait(.00) do
        wait(.0)
        vim:SendKeyEvent(true, "F", false, game)
 	   peanut = peanut + 1
-end       
