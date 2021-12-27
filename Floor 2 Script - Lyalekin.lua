@@ -4,7 +4,7 @@
 -- #         v3.0.1          #
 -- #                         #
 -- ###########################
-asdasdfasdfgsdfgdhrfgjhrftytyhuloadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
 
 -- # Portal
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
