@@ -4,7 +4,7 @@
 -- #         v3.0.1          #
 -- #                         #
 -- ###########################
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+asdasdfasdfgsdfgdhrfgjhrftytyhuloadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
 
 -- # Portal
 local pl = game.Players.LocalPlayer.Character.HumanoidRootPart
@@ -305,3 +305,4 @@ while wait(.00) do
        wait(.0)
        vim:SendKeyEvent(true, "F", false, game)
 	   peanut = peanut + 1
+end       
